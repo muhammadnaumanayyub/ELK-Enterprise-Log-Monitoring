@@ -1,0 +1,8 @@
+configurations/elasticsearch/jvm.options
+sudo nano /etc/elasticsearch/jvm.options
+Change
+-Xms1g
+-Xmx1g
+To
+-Xms512m
+-Xmx512m

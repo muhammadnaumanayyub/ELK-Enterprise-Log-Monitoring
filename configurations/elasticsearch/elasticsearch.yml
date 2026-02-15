@@ -1,0 +1,4 @@
+# Modified parameters for lab deployment
+
+discovery.type: single-node
+#cluster.initial_master_nodes: ["Wazuh"]
